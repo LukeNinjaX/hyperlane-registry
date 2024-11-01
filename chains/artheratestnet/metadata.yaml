@@ -12,7 +12,7 @@ chainId: 10243
 deployer:
   name: Arthera
   url: https://www.arthera.net
-displayName: Arthera Testnet
+displayName: Arthera Testnet222
 domainId: 10243
 isTestnet: true
 name: artheratestnet

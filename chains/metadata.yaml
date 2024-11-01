@@ -265,7 +265,7 @@ artheratestnet:
   deployer:
     name: Arthera
     url: https://www.arthera.net
-  displayName: Arthera Testnet
+  displayName: Arthera Testnet111
   domainId: 10243
   isTestnet: true
   name: artheratestnet
