@@ -4620,7 +4620,7 @@ zoratestnet:
   deployer:
     name: guy93354
     url: https://github.com/guy93354
-  displayName: Zora Testnet
+  displayName: Zora Testnet111
   domainId: 999999999
   isTestnet: true
   name: zoratestnet
