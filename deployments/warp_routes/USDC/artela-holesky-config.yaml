@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../schema.json
+tokens:
+  - addressOrDenom: "0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD"
+    chainName: artela
+    collateralAddressOrDenom: "0x423ABc22ebbF9e28b0Ec29e6577a340f99269A43"
+    connections:
+      - token: ethereum|holesky|0xeb3D7CEC3FA38798F604887C53b4eB3bfcf477ab
+    decimals: 18
+    name: usd-coin
+    standard: EvmHypCollateral
+    symbol: USDC
+  - addressOrDenom: "0xeb3D7CEC3FA38798F604887C53b4eB3bfcf477ab"
+    chainName: holesky
+    collateralAddressOrDenom: "0x123B520fDd5De936bd94A73a2D6225C1276771c9"
+    connections:
+      - token: ethereum|artela|0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD
+    decimals: 18
+    name: usd-coin
+    standard: EvmHypCollateral
+    symbol: USDC

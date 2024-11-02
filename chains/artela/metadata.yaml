@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../schema.json
+blockExplorers:
+  - apiUrl: https://betanet-scan.artela.network
+    family: blockscout
+    name: Artela Scan
+    url: https://betanet-scan.artela.network
+blocks:
+  confirmations: 1
+  estimateBlockTime: 2
+  reorgPeriod: 1
+chainId: 11822
+displayName: Artela
+domainId: 11822
+isTestnet: true
+name: artela
+nativeToken:
+  decimals: 18
+  name: artela
+  symbol: ART
+protocol: ethereum
+rpcUrls:
+  - http: https://betanet-rpc1.artela.network
