@@ -268,8 +268,6 @@ artela:
   displayName: Artela
   domainId: 11822
   isTestnet: true
-  gasCurrencyCoinGeckoId: sei-network
-  gnosisSafeTransactionServiceUrl: http://47.251.32.165:1317
   name: artela
   nativeToken:
     decimals: 18
