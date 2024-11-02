@@ -251,6 +251,33 @@ arthera:
     - http: https://rpc.arthera.net
       pagination:
         maxBlockRange: 10000
+artela:
+  blockExplorers:
+    - apiUrl: https://betanet-scan.artela.network/
+      family: blockscout
+      name: Artscan
+      url: https://betanet-scan.artela.network/
+  blocks:
+    confirmations: 1
+    estimateBlockTime: 1
+    reorgPeriod: 1
+  chainId: 11822
+  deployer:
+    name: Abacus Works
+    url: https://www.hyperlane.xyz
+  displayName: Artela
+  domainId: 11822
+  isTestnet: true
+  gasCurrencyCoinGeckoId: sei-network
+  gnosisSafeTransactionServiceUrl: http://47.251.32.165:1317
+  name: artela
+  nativeToken:
+    decimals: 18
+    name: Artela
+    symbol: ART
+  protocol: ethereum
+  rpcUrls:
+    - http: http://47.251.32.165:8545
 artheratestnet:
   blockExplorers:
     - apiUrl: https://explorer-test.arthera.net/api
@@ -265,7 +292,7 @@ artheratestnet:
   deployer:
     name: Arthera
     url: https://www.arthera.net
-  displayName: Arthera Testnet111
+  displayName: Arthera Testnet333
   domainId: 10243
   isTestnet: true
   name: artheratestnet
@@ -4631,31 +4658,3 @@ zoratestnet:
   protocol: ethereum
   rpcUrls:
     - http: https://sepolia.rpc.zora.energy
-artela:
-  blockExplorers:
-    - apiUrl: https://betanet-scan.artela.network/
-      family: blockscout
-      name: Artscan
-      url: https://betanet-scan.artela.network/
-  blocks:
-    confirmations: 1
-    estimateBlockTime: 1
-    reorgPeriod: 1
-  chainId: 11822
-  deployer:
-    name: Abacus Works
-    url: https://www.hyperlane.xyz
-  displayName: Artela
-  domainId: 11822
-  isTestnet: true
-  gasCurrencyCoinGeckoId: sei-network
-  gnosisSafeTransactionServiceUrl: http://47.251.32.165:1317
-  name: artela
-  nativeToken:
-    decimals: 18
-    name: Artela
-    symbol: ART
-  protocol: ethereum
-  rpcUrls:
-    - http: http://47.251.32.165:8545
-  technicalStack: other
