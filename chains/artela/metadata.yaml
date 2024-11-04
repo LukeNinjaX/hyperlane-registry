@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../schema.json
+chainId: 11820
+displayName: Artela
+domainId: 11820
+isTestnet: false
+name: artela
+nativeToken:
+  decimals: 18
+  name: artela
+  symbol: ART
+protocol: ethereum
+rpcUrls:
+  - http: https://api.artela.network/rpc

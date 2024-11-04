@@ -225,6 +225,19 @@ arcadiatestnet:
   protocol: ethereum
   rpcUrls:
     - http: https://rpc.khalani.network
+artela:
+  chainId: 11820
+  displayName: Artela
+  domainId: 11820
+  isTestnet: false
+  name: artela
+  nativeToken:
+    decimals: 18
+    name: artela
+    symbol: ART
+  protocol: ethereum
+  rpcUrls:
+    - http: https://api.artela.network/rpc
 artelatestnet:
   blockExplorers:
     - apiUrl: https://betanet-scan.artela.network
