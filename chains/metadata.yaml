@@ -246,7 +246,7 @@ artela:
     symbol: ART
   protocol: ethereum
   rpcUrls:
-    - http: https://betanet-rpc1.artela.network
+    - http: https://betanet-inner2.artela.network
 arthera:
   blockExplorers:
     - apiUrl: https://explorer.arthera.net/api
