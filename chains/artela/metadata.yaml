@@ -19,4 +19,4 @@ nativeToken:
   symbol: ART
 protocol: ethereum
 rpcUrls:
-  - http: https://betanet-inner2.artela.network
+  - http: https://betanet-rpc1.artela.network
