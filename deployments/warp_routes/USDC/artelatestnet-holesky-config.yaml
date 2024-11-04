@@ -13,7 +13,7 @@ tokens:
     chainName: holesky
     collateralAddressOrDenom: "0x123B520fDd5De936bd94A73a2D6225C1276771c9"
     connections:
-      - token: ethereum|artela|0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD
+      - token: ethereum|artelatestnet|0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD
     decimals: 18
     name: usd-coin
     standard: EvmHypCollateral
