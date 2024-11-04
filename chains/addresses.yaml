@@ -183,7 +183,7 @@ arcadiatestnet:
   testRecipient: "0xfBeaF07855181f8476B235Cf746A7DF3F9e386Fb"
   timelockController: "0x0000000000000000000000000000000000000000"
   validatorAnnounce: "0x867f2089D09903f208AeCac84E599B90E5a4A821"
-artela:
+artelatestnet:
   domainRoutingIsmFactory: "0x5CF17dA63a37A82adA1FA73d49E89EBC68ad5C53"
   interchainAccountIsm: "0xc9f84C1c63ce7Ad8AF926cEA29c0971E5E0D2913"
   interchainAccountRouter: "0xD4cc8ca33dE647CeE03772D41b8DFc05e754b73d"

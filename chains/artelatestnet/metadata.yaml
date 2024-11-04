@@ -9,10 +9,10 @@ blocks:
   estimateBlockTime: 2
   reorgPeriod: 1
 chainId: 11822
-displayName: Artela
+displayName: Artela Testnet
 domainId: 11822
 isTestnet: true
-name: artela
+name: artelatestnet
 nativeToken:
   decimals: 18
   name: artela

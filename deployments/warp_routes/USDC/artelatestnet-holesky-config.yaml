@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=../schema.json
 tokens:
   - addressOrDenom: "0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD"
-    chainName: artela
+    chainName: artelatestnet
     collateralAddressOrDenom: "0x423ABc22ebbF9e28b0Ec29e6577a340f99269A43"
     connections:
       - token: ethereum|holesky|0xeb3D7CEC3FA38798F604887C53b4eB3bfcf477ab
