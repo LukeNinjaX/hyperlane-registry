@@ -1,4 +1,4 @@
 artelatestnet:
-  collateral: "0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD"
+  synthetic: "0x9c3A2c791f45a13befFC7205aFB7bFc844759831"
 holesky:
-  collateral: "0xeb3D7CEC3FA38798F604887C53b4eB3bfcf477ab"
+  collateral: "0x261A4cE71DAae74E4e5Fb1B104b94CD6d2Ed7D44"

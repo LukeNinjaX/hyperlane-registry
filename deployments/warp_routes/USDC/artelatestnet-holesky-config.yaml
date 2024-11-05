@@ -1,20 +1,19 @@
 # yaml-language-server: $schema=../schema.json
 tokens:
-  - addressOrDenom: "0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD"
+  - addressOrDenom: "0x9c3A2c791f45a13befFC7205aFB7bFc844759831"
     chainName: artelatestnet
-    collateralAddressOrDenom: "0x423ABc22ebbF9e28b0Ec29e6577a340f99269A43"
     connections:
-      - token: ethereum|holesky|0xeb3D7CEC3FA38798F604887C53b4eB3bfcf477ab
-    decimals: 18
-    name: usd-coin
-    standard: EvmHypCollateral
+      - token: ethereum|holesky|0x261A4cE71DAae74E4e5Fb1B104b94CD6d2Ed7D44
+    decimals: 6
+    name: USD Coin
+    standard: EvmHypSynthetic
     symbol: USDC
-  - addressOrDenom: "0xeb3D7CEC3FA38798F604887C53b4eB3bfcf477ab"
+  - addressOrDenom: "0x261A4cE71DAae74E4e5Fb1B104b94CD6d2Ed7D44"
     chainName: holesky
-    collateralAddressOrDenom: "0x123B520fDd5De936bd94A73a2D6225C1276771c9"
+    collateralAddressOrDenom: "0x16b29f45d3fffb9a17c1f09e92a8e1446d34eabc"
     connections:
-      - token: ethereum|artelatestnet|0x2bd14e1d97c4235a5B6Ac262846A74425Ddc86fD
-    decimals: 18
-    name: usd-coin
+      - token: ethereum|artelatestnet|0x9c3A2c791f45a13befFC7205aFB7bFc844759831
+    decimals: 6
+    name: USD Coin
     standard: EvmHypCollateral
     symbol: USDC
